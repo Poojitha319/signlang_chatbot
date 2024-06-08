@@ -1,1 +1,4 @@
-# signlang_chatbot
+# Sign_bot: Overview
+The sign_bot is a type of chatbot is a groundbreaking digital solution designed to facilitate seamless communication between hearing-impaired individuals and the broader community. Leveraging natural language processing and computer vision technologies, this chatbot interprets text input and responds with corresponding sign language animations or text, enabling fluent conversation in real-time.Using this project we can directly interact with deaf people and we can feel their feelings.Utilizing cutting-edge natural language processing (NLP) and computer vision technologies, Sign_bot can accurately recognize and translate sign language gestures into text or spoken language, and vice versa. This open-source project is built on a comprehensive dataset of sign language gestures and employs deep learning models for real-time gesture recognition and language translation.For user interface i have made an mobile application using flutter an dart.For chatbot construction i have used my dl trained model and langchain framework to handle high datasets. 
+# TechStack:
+
