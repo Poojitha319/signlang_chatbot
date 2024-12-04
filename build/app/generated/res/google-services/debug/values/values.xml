@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">495617804531</string>
+    <string name="google_api_key" translatable="false">AIzaSyAL-cxtC09JG6fHKgV8yWy2In8t_JXoo30</string>
+    <string name="google_app_id" translatable="false">1:495617804531:android:6b3d8aa3cc392869a14f86</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAL-cxtC09JG6fHKgV8yWy2In8t_JXoo30</string>
+    <string name="google_storage_bucket" translatable="false">chatbot-4c6b9.appspot.com</string>
+    <string name="project_id" translatable="false">chatbot-4c6b9</string>
+</resources>
