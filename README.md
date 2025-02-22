@@ -20,4 +20,48 @@ This open-source project leverages deep learning models and a robust dataset of 
 - Uses **LangChain framework** to efficiently handle large datasets.
 - Mobile app interface built with **Flutter**, ensuring cross-platform support.
 
-## Still building this application
+## 📥 Installation (Flutter Front-End)
+
+### **Prerequisites**
+- **Flutter SDK**: Install from [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
+- **Firebase Account**: Create a Firebase project for authentication and database integration.
+
+### **Steps to Install**
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Poojitha319/signlang_chatbot.git
+   cd SignSiksha_SIH
+2.**Get all requirements**:
+```bash
+   flutter pub get
+   ```
+3.**Run the app**:
+```bash
+   flutter run
+   ```
+## 🌐Backend Setup
+1.**Clone the backend repository**:
+   ```bash
+   git clone https://github.com/Poojitha319/signlang_chatbot.git
+   cd backend
+   ```
+2.**Install required dependencies**:
+  ```bash
+   pip install -r requirements.txt
+   ```
+3.**Configure databases**:
+  Open settings file and set up your database configurations.
+4.**Run database migrations**:
+```bash
+   python manage.py makemigrations
+   python manage.py migrate
+   ```
+5.**Run the server**:
+```bash
+   python manage.py runserver
+   ```
+Conclusion
+
+Sign_bot is more than just a chatbot—it's a revolutionary step towards bridging communication gaps and fostering inclusivity for the hearing-impaired community. By integrating cutting-edge AI technologies, we are making sign language more accessible, enabling effortless communication, and empowering users worldwide. Join us in revolutionizing communication accessibility! 
+
