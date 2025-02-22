@@ -9,15 +9,15 @@ This open-source project leverages deep learning models and a robust dataset of 
 
 **Tech Stack:**
 - **Mobile App**: Flutter & Dart
-- **Backend**: Deep Learning (DL) Model, LangChain framework for managing large datasets
-- **AI Technologies**: NLP, Computer Vision, Gesture Recognition
-- **Languages**: Python, Dart
+- **Backend**: Django
+- **Model Development**: Deep learning,NLP
+- **Languages**: Python,Dart
 
 ## Features:
 - Real-time translation of **sign language gestures** to **text or spoken language**.
 - **Text input** is converted into corresponding **sign language gestures**.
 - Built with **deep learning models** for gesture recognition.
-- Uses **LangChain framework** to efficiently handle large datasets.
+- Uses **LangChain framework** for chatbot integrations.
 - Mobile app interface built with **Flutter**, ensuring cross-platform support.
 
 ## 📥 Installation (Flutter Front-End)
