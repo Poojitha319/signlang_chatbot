@@ -21,6 +21,7 @@ This open-source project leverages deep learning models and a robust dataset of 
 - Mobile app interface built with **Flutter**, ensuring cross-platform support.
 ## Project directory structure
 Directory structure:
+```bash
 └── poojitha319-signlang_chatbot/
     ├── README.md
     ├── chatbot.iml
@@ -196,6 +197,7 @@ Directory structure:
     │   ├── profile.dart
     │   └── signup.dart
     └── .dart_tool
+    ```
 
 ## 📥 Installation (Flutter Front-End)
 
